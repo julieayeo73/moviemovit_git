@@ -1,4 +1,5 @@
-moviemovit_git
+# moviemovit Project for git
+
 Spring + MyBatis
 Java
 JavaScript
